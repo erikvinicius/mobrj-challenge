@@ -1,0 +1,8 @@
+.card-question {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 1px;
+  transition: box-shadow 0.4s ease-in-out;
+}
+
+.card-question:focus {
+  box-shadow: rgba(0, 0, 0, 0.719) 0px 2px;
+}
